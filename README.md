@@ -1,5 +1,5 @@
 
-<img align="left" width="170" height="40" src="https://github.com/plasmadlt/NFT-and-NTT-Protocol/img/plasmadltlogo.png"> </br>
+<img align="left" width="170" height="40" src="https://github.com/plasmadlt/NFT-and-NTT-Protocol/blob/master/img/plasmadltlogo.png"> </br>
 
 ***
 # NFT and NTT Protocol
